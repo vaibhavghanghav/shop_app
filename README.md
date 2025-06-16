@@ -13,8 +13,8 @@ A Flutter-based grocery shopping application that uses the [Provider](https://pu
 
 ## Screenshots
 
-| Home Screen | Item Details | Cart | Orders |
-|:-----------:|:------------:|:----:|:------:|
+| Home Screen | Item Details | Cart | 
+|:-----------:|:------------:|:----:|
 | ![Home](screenshots/first.png) | ![Details](screenshots/second.png) | ![Cart](screenshots/third.png) | 
 
 ## Getting Started
